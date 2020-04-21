@@ -72,7 +72,7 @@ body{
 }
 .screen {
     background-color: #fff;
-    height: 70px;
+    height: 150px;
     width: 100%;
     margin: 15px 0;
     transform: rotateX(-45deg);
